@@ -20,8 +20,8 @@
   De nu, schimb a ta coroană într-o ramură de spini<br />
     </p>
     <hr>
-    <a href = "https://www.youtube.com”> Links to Instagram </a>
+    <a href = "https://www.youtube.com”> Links to Youtube </a>
     <hr>
-    <img src = “https://images.app.goo.gl/uRa1xXWz57Cc3e7T9”>
+    <img src = “https://www.google.com/imgres?imgurl=https%3A%2F%2Fc02.purpledshub.com%2Fuploads%2Fsites%2F62%2F2021%2F12%2Fwhat-is-a-capybara-a9bac69.jpg&tbnid=l42a4E3v7VOs0M&vet=12ahUKEwja2f7SloeCAxUv4gIHHY2FDHQQMygMegQIARBm..i&imgrefurl=https%3A%2F%2Fwww.discoverwildlife.com%2Fanimal-facts%2Fmammals%2Fcapybaras-facts&docid=iBG2IMDVz7owXM&w=2120&h=1415&q=copybara&client=opera-gx&ved=2ahUKEwja2f7SloeCAxUv4gIHHY2FDHQQMygMegQIARBm”>
   </body>
 </html>
