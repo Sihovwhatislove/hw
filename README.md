@@ -3,6 +3,26 @@
 <html lang=“en”>
   <head>
     <title>Homework</title>
+       ul { color: #336699;
+font-size: 16px;
+ background-color: #f0f0f0;
+ text-align: left;
+} 
+ol { color: #990000;
+font-size: 18px;
+ background-color: #ffffcc;
+text-align: center;
+}
+table {
+border: 1px solid #000000;
+}
+ th {
+   border: 1px solid #000000;
+ }
+ td {
+ border: 1px solid #000000;
+ }
+  </style>
   </head>
   <body>
     <h1>Baiazid, privind la dânsul, îl întreabă cu dispreţ:</h1>
@@ -23,37 +43,7 @@
     <a href = "https://www.youtube.com”> Links to Youtube </a>
     <hr>
     <img src = "https://codehs.com/images/arches-ntnl-park" alt="Arches National Park">
-  </body>
-</html>
-/*
-      
-<!DOCTYPE html>
- <html> 
- <head>
-  <style>
-   ul { color: #336699;
-font-size: 16px;
- background-color: #f0f0f0;
- text-align: left;
-} 
-ol { color: #990000;
-font-size: 18px;
- background-color: #ffffcc;
-text-align: center;
-}
-table {
-border: 1px solid #000000;
-}
- th {
-   border: 1px solid #000000;
- }
- td {
- border: 1px solid #000000;
- }
-  </style>
-    </head>
-   <body>
-    <ul>
+          <ul>
     <li>a</li>
    <li>b</li>
     <li>c</li>
@@ -73,6 +63,7 @@ border: 1px solid #000000;
     <td>Data 2</td>
     </tr>
    </table>
-    </body>
- </html>
-*/
+  </body>
+</html>
+/*
+      
