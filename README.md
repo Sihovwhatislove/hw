@@ -47,13 +47,13 @@
     <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
     <ul>
         <li class ='ft' >suzuki</li>
-        <li class ='ft'>emaha</li>
+        <li class ='ft'>Yamaha</li>
         <li class ='ft'>Ducatti
             <ol>
-                <li>A5</li>
-                <li>RS6</li>
-                <li>Q7</li>
-                <li>RS Q8</li>
+                <li>Sx4</li>
+                <li>YZF-R1</li>
+                <li>M4</li>
+                <li>Mx sx7</li>
             </ol>
         </li>
     </ul>
