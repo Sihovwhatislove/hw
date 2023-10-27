@@ -65,17 +65,17 @@
             <th>Student: Class</th>
         </tr>
         <tr>
-            <td>Sihov Danila</td>
+            <td>SOVA MAXIM</td>
             <td>Turudu Veysel</td>
             <td>10B</td>
         </tr>
         <tr>
-            <td>Savcenco Severin</td>
+            <td>Bicer Oleg</td>
             <td>Turudu Veysel</td>
             <td>10B</td> 
         </tr>
         <tr>
-            <td>Caraman Justin</td>
+            <td>Maimuta Artemii</td>
             <td>Turudu Veysel</td>
             <td>10B</td>
         </tr>
