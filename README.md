@@ -42,7 +42,7 @@
     <hr>
     <a href = "https://www.youtube.com"> Links to YouTube </a>
     <hr>
-<img src = "https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s800-c85.webp" height = "300px" width = "300px">
+<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa7%2F07%2F8a%2Fa7078a361fafe07cb55ab62fc3767ff8.jpg&tbnid=hpfQog829B6sHM&vet=12ahUKEwiGx93ttZaCAxVg4bsIHQRrBJoQMygHegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffall-in-love-with-capybara-couple-the-cutest-animal-duo-around-in-2023--886012926674076556%2F&docid=jf0WPpTLC14FVM&w=356&h=349&q=capybara%20cute&client=opera-gx&ved=2ahUKEwiGx93ttZaCAxVg4bsIHQRrBJoQMygHegQIARBg" width = "300px">
     <br>
     <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
     <ul>
