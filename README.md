@@ -81,8 +81,24 @@
         </tr>
     </table>
 
-    <p style="text-align:center"><span style="font-size:20px"><span style="font-family:Comic Sans MS,cursive"><span style="color:#2980b9"><strong>Făclie de veghe pe umezi morminte,</strong><br /><em>Un sunet de clopot &icirc;n orele sfinte,</em></span></span><br />
-    <span style="font-family:Georgia,serif"><span style="color:#2c3e50"><strong>Un vis ce &icirc;şi moaie aripa-n amar,</strong><br /><em>Astfel ai trecut de al lumii hotar.</em></span></span></span></p>
+    <p style="text-align:center">
+        <span style="font-size:20px">
+            <span style="font-family:Comic Sans MS,cursive">
+                <span style="color:#2980b9">
+                    <strong>Făclie de veghe pe umezi morminte,</strong>
+                    <br />
+                    <em>Un sunet de clopot &icirc;n orele sfinte,</em>
+                </span>
+            </span>
+            <br />
+    <span style="font-family:Georgia,serif">
+        <span style="color:#2c3e50">
+            <strong>Un vis ce &icirc;şi moaie aripa-n amar,</strong><br />
+            <em>Astfel ai trecut de al lumii hotar.</em>
+        </span>
+    </span>
+</span>
+</p>
 
     
 </body>
