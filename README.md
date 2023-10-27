@@ -1,60 +1,89 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-
+    <title>BTest 1</title>
     <style>
-        p {
-            color: #6625FF;
-            text-align: center;
+        tr {
+            color:#71eb34;
+            text-align:center;
+            font-size:'14px';
         }
-        .BBC {
-            color: #d10056;
-            background-color: yellow;
-            text-align: center;
+        .st{
+            color:#34ebc6;
+            text-align:center;
+            font-size:'16px';
+        }
+        .ft{
+            color:#34ebc6;
+            font-size:'18px';
         }
     </style>
 </head>
 <body>
-    <ul>
-        <il>45</il>
-        <il>23</il>
-        <il>25</il>
-    </ul>
-    <ol>
-        <il>342</il>
-        <il>432</il>
-        <il>342</il>
-    </ol>
+    <h1>qwerty</h1>
+    <h1>Test 2</h1>
+    <p>Test2</p>
 
-    <table border="4">
-        <tr style="background-color:blueviolet">
-            <th>col1</th>
-            <th>col2</th>
+    <h1 class ='st'>A fost odată ca-n poveşti,</h1>
+    <hr>
+    <h2>A fost ca niciodată.</h2>
+    <hr>
+    <b class ='st'>Din rude mari împărăteşti,</b>
+    <hr>
+    <i>O prea frumoasă fată.</i>
+    <hr>
+    <p>
+      Cobori în jos, luceafăr blând,<br />
+  Alunecând pe-o rază,<br />
+  Pătrunde-n casă şi în gând<br />
+  Şi viaţa-mi luminează!<br />
+    </p>
+    <hr>
+    <a href = "https://www.youtube.com"> Links to YouTube </a>
+    <hr>
+<img src = "https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s800-c85.webp" height = "300px" width = "300px">
+    <br>
+    <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
+    <ul>
+        <li class ='ft' >Mercdes</li>
+        <li class ='ft'>Bmw</li>
+        <li class ='ft'>Audi
+            <ol>
+                <li>A5</li>
+                <li>RS6</li>
+                <li>Q7</li>
+                <li>RS Q8</li>
+            </ol>
+        </li>
+    </ul>
+
+    <table border ="1">
+        <tr>
+            <th>Student: Name</th>
+            <th>Student: Class Teacher</th>
+            <th>Student: Class</th>
         </tr>
-        <tr style="background-color:#fcba03">
-            <td>1.1</td>
-            <td>1.2</td>
+        <tr>
+            <td>Sihov Danila</td>
+            <td>Turudu Veysel</td>
+            <td>10B</td>
         </tr>
-        <tr style="background-color:rgb(255, 0, 0)">
-            <td>2.1</td>
-            <td>2.1</td>
+        <tr>
+            <td>Savcenco Severin</td>
+            <td>Turudu Veysel</td>
+            <td>10B</td> 
+        </tr>
+        <tr>
+            <td>Caraman Justin</td>
+            <td>Turudu Veysel</td>
+            <td>10B</td>
         </tr>
     </table>
-<h1 class="BBC">ni</h1> 
-    <p>Leveraging deep learning techniques and a vast dataset from the Internet</p>
-<h1>si</h1>
-    <p>Leveraging deep learning techniques and a vast dataset from the Internet</p>
-<h1 class="BBC">r</h1>
-    <p>Leveraging deep learning techniques and a vast dataset from the Internet</p>
-<h1 >bl</h1>
-    <p>Leveraging deep learning techniques and a vast dataset from the Internet</p>
-<h1 class="BBC">cr</h1>
-    <p>Leveraging deep learning techniques and a vast dataset from the Internet</p>
+
+    <p style="text-align:center"><span style="font-size:20px"><span style="font-family:Comic Sans MS,cursive"><span style="color:#2980b9"><strong>Făclie de veghe pe umezi morminte,</strong><br /><em>Un sunet de clopot &icirc;n orele sfinte,</em></span></span><br />
+    <span style="font-family:Georgia,serif"><span style="color:#2c3e50"><strong>Un vis ce &icirc;şi moaie aripa-n amar,</strong><br /><em>Astfel ai trecut de al lumii hotar.</em></span></span></span></p>
+
     
 </body>
-    
 </html>
