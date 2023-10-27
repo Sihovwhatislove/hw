@@ -42,13 +42,13 @@
     <hr>
     <a href = "https://www.youtube.com"> Links to YouTube </a>
     <hr>
-<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa7%2F07%2F8a%2Fa7078a361fafe07cb55ab62fc3767ff8.jpg&tbnid=hpfQog829B6sHM&vet=12ahUKEwiGx93ttZaCAxVg4bsIHQRrBJoQMygHegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffall-in-love-with-capybara-couple-the-cutest-animal-duo-around-in-2023--886012926674076556%2F&docid=jf0WPpTLC14FVM&w=356&h=349&q=capybara%20cute&client=opera-gx&ved=2ahUKEwiGx93ttZaCAxVg4bsIHQRrBJoQMygHegQIARBg" width = "300px">
+<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fseekscandinavia.com%2Fwp-content%2Fuploads%2F2022%2F04%2Fdanish-frogmen-helmet-1.jpg&tbnid=UsJxV3uuTscX_M&vet=12ahUKEwjZvtGlt5aCAxVBnP0HHYiEDIcQMygAegQIARA_..i&imgrefurl=https%3A%2F%2Fseekscandinavia.com%2Fdanish-frogmen-helmet-net%2F&docid=k66l9OO2rE94oM&w=794&h=530&q=dansih%20frogmen&hl=ro&client=opera-gx&ved=2ahUKEwjZvtGlt5aCAxVBnP0HHYiEDIcQMygAegQIARA_" width = "300px">
     <br>
     <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
     <ul>
-        <li class ='ft' >Mercdes</li>
-        <li class ='ft'>Bmw</li>
-        <li class ='ft'>Audi
+        <li class ='ft' >suzuki</li>
+        <li class ='ft'>emaha</li>
+        <li class ='ft'>Ducatti
             <ol>
                 <li>A5</li>
                 <li>RS6</li>
